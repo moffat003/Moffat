@@ -1,9 +1,9 @@
 # Hi, I'm Moffat
 
-Computer science student (majoring in Software-practice) at the University of Alberta <br/>
-Minor in Mathematics <br/>
-Aspiring Software Engineer passionate about Sustainability and Renewable Resources <br/>
-Soccer maestro <br/>
+🤓 Computer science student (majoring in Software-practice) at the University of Alberta <br/>
+🧮 Minor in Mathematics <br/>
+🪴✅ Aspiring Software Engineer passionate about Sustainability and Renewable Resources <br/>
+⚽️ Soccer maestro <br/>
 
 
 # 💻 Tech Stack:
